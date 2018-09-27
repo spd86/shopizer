@@ -2,7 +2,7 @@ Shopizer 2.2.0 (for java 1.8 +)
 -------------------
 
 Java open source e-commerce software
-
+ Spandana Nannapaneni
 - Shopping cart
 - Catalogue
 - Search
