@@ -2,7 +2,7 @@ Shopizer 2.2.0 (for java 1.8 +)
 -------------------
 
 Java open source e-commerce software
- Spandana Nannapaneni
+ Spandana Nannapaneni // Changed README
 - Shopping cart
 - Catalogue
 - Search
@@ -16,7 +16,7 @@ http://demo.shopizer.com:8080
 
 
 To get the code:
--------------------
+---------------------
 Clone the repository:
 $ git clone git://github.com/shopizer-ecommerce/shopizer.git
 
